@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApplication1.5</string>
+    <string name="titulo">Gauss y el ruso</string>
+    <string name="subtitle">Scroll View</string>
+    <string name="campo">
+        Como muchos sabemos, Carl Friedrich Gauss es uno de los matemáticos más importantes de la historia, tanto por la cantidad como por la calidad de sus aportaciones y la influencia de las mismas en las matemáticas posteriores. Pero un genio como él, por mucho que fuera llamado el príncipe de las matemáticas, no podía quedarse ahí. Cuentan que Gauss era muy bueno en idiomas desde muy pequeño, característica que mantuvo el resto de su vida.\n\n
+        www.google.com \n\n
+        Y decimos que era bueno desde pequeñito porque parece ser que Gauss dominaba el latín y el griego en su época adolescente, y hasta valoró la posibilidad de dedicarse a la filología (para que luego digan que las ciencias y las letras no están relacionadas). Por suerte para todos nosotros se decidió por las matemáticas, pero ni mucho menos perdió esa habilidad para las lenguas.\n\n
+        La anécdota de Gauss que vamos a contar hoy se sitúa cronológicamente en la primera mitad del siglo XIX, sobre 1840. Gauss, que contaba ya con más de 60 años, tiene conocimiento de los trabajos de Janos Bolyai y Nikolai Lobachevsky sobre la independencia del quinto postulado y las geometrías no euclídeas. Más tarde se supo que el propio Gauss había trabajado en el tema, y que es posible que determinara que el quinto postulado de Euclides no se podía demostrar a partir de los otros cuatro, pero lo que sí es cierto es que Gauss no publicó nada relacionado con esto.\n\n
+        La cuestión es que Gauss se interesó por los trabajos de este tal Lobachevsky. ¿Problema? que estaban en ruso. Uhmmm…¿he dicho problema? No para Gauss, que se planteó aprender ruso, y lo consiguió…en pocos meses…y con más de 60 años de edad…Casi nada.\n
+    </string>
+</resources>
